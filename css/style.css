@@ -1,0 +1,147 @@
+.wrapper{
+     
+     width:60%;
+     margin:0 auto;
+     border:5px solid #ddd;
+
+}
+label{
+      font-size: 25px;
+
+}
+
+
+
+.first-name, .last-name, .email, .date-of-birth, .password, .radio, .checkbox{
+
+    width:90%;
+    height:25px;
+    padding:10px;
+    font-size: 10;
+
+}
+
+.header{
+    height:100px;
+    background-color:aqua;
+}
+
+
+.container{
+    overflow:hidden;
+
+}
+
+.blog{ 
+       float: left;
+       width: 70%;
+       height:150px;
+       background-color: darkblue;
+}
+
+.contacts{
+    float: left;
+    width: 30%;
+    height: 150px;
+    background-color: royalblue;
+
+
+}
+.item1{
+    float: left;
+    width: 33.33%;
+    height: 100px;
+    background-color: blue;
+
+}
+.item2{
+    float: left;
+    width: 33.33%;
+    height: 100px;
+    background-color: cadetblue;
+
+}
+.item3{
+    float: left;
+    width: 33.33%;
+    height: 100px;
+    background-color: grey;
+
+}
+
+.item4{
+    float:left;
+    width: 25%;
+    height: 100px;
+    background-color: seagreen;
+}
+.item5{
+    float: left;
+    width: 25%;
+    height: 100px;
+    background-color: dodgerblue;
+}
+.item6{
+
+    float: left;
+    width: 25%;
+    height: 100px;
+    background-color: mediumblue;
+
+}
+
+.item7{
+    float: left;
+    width: 25%;
+    height: 100px;
+    background-color: steelblue;
+}
+.item8{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: blueviolet;
+}
+.item9{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: powderblue;
+}
+.item10{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: midnightblue;
+
+}
+
+.item11{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: teal;
+}
+.item12{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: violet;
+}
+
+.footer{
+    height: 100px;
+    background-color: lightskyblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
